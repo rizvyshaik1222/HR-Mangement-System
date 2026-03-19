@@ -1,3 +1,4 @@
+# Netlify configuration for HR Management System
 [build]
   command = "cd frontend && npm install && npm run build"
   publish = "frontend/dist"
